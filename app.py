@@ -35,7 +35,7 @@ on the JD and the missing keywords with high accuracy.
 resume: {text}
 description: {jd}
 
-I want the response in a single string having the structure:
+I want the response in a three string having the structure:
 {
   "JD Match": "X%",
   "Missing Keywords": ["keyword1", "keyword2", ...],
